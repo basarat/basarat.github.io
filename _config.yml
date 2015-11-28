@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Basarat
+title:            BASARAT
 tagline:          'Basarat Ali Syed'
 description:      '<a href="https://twitter.com/basarat" target="_blank">That TypeScript Guy</a>.'
 url:              http://basarat.com
@@ -19,5 +19,6 @@ author:
 
 # Custom vars
 github:           https://github.com/basarat
+twitter:           https://twitter.com/basarat
 collections:
 - sections

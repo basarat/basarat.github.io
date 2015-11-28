@@ -19,3 +19,6 @@ author:
 
 # Custom vars
 version:          2.1.0
+
+collections:
+- sections

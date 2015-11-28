@@ -7,11 +7,12 @@ title: Home
   {% for post in site.sections %}
   <div class="post">
     <h1 class="post-title">
+      <a name="{{feature.name | slugify}}"></a>
       <a href="#{{post.title | slugify}}">
         {{ post.title }}
       </a>
     </h1>
-    
+
     {{ post.content }}
   </div>
   {% endfor %}

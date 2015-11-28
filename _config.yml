@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Hyde
+tagline:          'Basarat Ali Syed'
+description:      '<a href="https://twitter.com/basarat" target="_blank">That TypeScript Guy</a>.'
+url:              http://basarat.com
+baseurl:          /
+
+author:
+  name:           'Basarat Ali Syed'
+  url:            https://twitter.com/basarat
+
+paginate:         20
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/basarat/basarat.github.io

@@ -3,7 +3,6 @@ layout: post
 title: Projects
 ---
 
-## Pet Projects
 Optimizing developer workflows and maintainable code architectures excite me.
 
 <a href="https://atom.io/packages/atom-typescript"><img height="200px" src="https://raw.githubusercontent.com/TypeStrong/atom-typescript-examples/master/screens/semanticView.png"/></a>

@@ -10,6 +10,6 @@ I try to help out whenever I can
 
 Top contributor for [TypeScript](http://stackoverflow.com/tags/typescript/topusers).
 
-<a href="https://www.airpair.com/typescript/expert-basarat"><img height="100px" src="/img/airpair.png"/></a>
+<a href="https://www.airpair.com/typescript/expert-basarat"><img height="60px" src="/img/airpair.png"/></a>
 
 [TypeScript Expert](https://www.airpair.com/typescript/expert-basarat) on AirPair

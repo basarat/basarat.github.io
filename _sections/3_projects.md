@@ -6,7 +6,7 @@ title: Projects
 Developer workflows and maintainable code architectures excite me.
 
 ## [Atom Typescript](https://atom.io/packages/atom-typescript)
-[Atom-TypeScript](https://atom.io/packages/atom-typescript) : Downloaded nearly 140K+ times by developers in under a year, this is the defacto TypeScript package for the Atom Editor.
+[Atom-TypeScript](https://atom.io/packages/atom-typescript) : Downloaded nearly 164K+ times by developers in under a year, this is the defacto TypeScript package for the Atom Editor.
 
 <a href="https://atom.io/packages/atom-typescript"><img src="https://raw.githubusercontent.com/TypeStrong/atom-typescript-examples/master/screens/semanticView.png"/></a>
 

@@ -5,14 +5,15 @@ title: Projects
 
 Developer workflows and maintainable code architectures excite me.
 
-<a href="https://atom.io/packages/atom-typescript"><img src="https://raw.githubusercontent.com/TypeStrong/atom-typescript-examples/master/screens/semanticView.png"/></a>
-
-
+## Atom Typescript
 [Atom-TypeScript](https://atom.io/packages/atom-typescript) : Downloaded nearly 140K+ times by developers in under a year, this is the defacto TypeScript package for the Atom Editor.
 
-<a href="http://www.typescriptbuilder.com/"><img src="/img/typescriptbuilder.jpg"/></a>
+<a href="https://atom.io/packages/atom-typescript"><img src="https://raw.githubusercontent.com/TypeStrong/atom-typescript-examples/master/screens/semanticView.png"/></a>
 
-[TypeScriptBuilder](http://www.typescriptbuilder.com/) : An IDE that I am designing specifically to meet my personal high quality language tool requirements.
+## ALM Tools
+[alm.tools](http://alm.tools/) : A toolset I am designing specifically to meet my personal high quality language tool requirements.
+
+<a href="http://www.typescriptbuilder.com/"><img src="/img/typescriptbuilder.jpg"/></a>
 
 ## Other Projects
 Too many, but here are a few I still feel proud about

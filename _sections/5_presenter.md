@@ -13,6 +13,7 @@ I've presented many times. Here are a few that I could dig up quickly in no part
 * [Lessons from creating your own Editor](http://chrisburgess.com.au/what-do-you-know-wdyk-melbourne/)
 * [5 Reasons to TypeScript](https://www.webdirections.org/events/wdyk-melb-apr2014/)
 * [NDC Sydney: TypeScript - More than just a transpiler](http://ndcsydney.com/speaker/basarat-ali-syed/)
+* [Melbourne FrontEnders: TypeScript and ReactJS, nice reviews 🌹](http://www.meetup.com/front-end-developers-javascript/events/231703417/)
 
 
 Variously [random](https://twitter.com/PicnicSoftware/status/538111725732507649) -- [talks](http://www.meetup.com/MelbNodeJS/events/222926818/) -- [even remotely](http://www.meetup.com/Adelaide-dotNET/events/231160074/).

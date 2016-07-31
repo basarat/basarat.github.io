@@ -20,4 +20,6 @@ Variously [random](https://twitter.com/PicnicSoftware/status/538111725732507649)
 
 Also [YouTube](http://youtube.com/basaratali) : Haven't published much, but still have 700+ subscribers and 125K+ views, which isn't bad for just random developer videos.
 
+[Also got interviewed about what motivates my OSS efforts.](http://developeronfire.com/episode-146-basarat-ali-syed-niche-and-fire)
+
 Would be happy to do a talk [if you want me to](https://twitter.com/basarat). Otherwise I'm mostly busy creating or helping others with OSS projects.

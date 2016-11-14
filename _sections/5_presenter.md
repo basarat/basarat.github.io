@@ -15,7 +15,8 @@ I've presented many times. Here are a few that I could dig up quickly in no part
 * [NDC Sydney: TypeScript - More than just a transpiler](http://ndcsydney.com/speaker/basarat-ali-syed/)
 * [Melbourne FrontEnders: TypeScript and ReactJS, nice reviews 🌹](http://www.meetup.com/front-end-developers-javascript/events/231703417/)
 * [Tech Inno Vent](https://www.meetup.com/Tech-Inno-Vent/events/232717286/) with [reviews](https://twitter.com/basarat/status/763326794359418880) and [crowd](https://twitter.com/workatcrownbet/status/763563637772464128?refsrc=email&s=11)
-* [DDD Melbourne 2016 with reviews](https://twitter.com/AbhayaChauhan/status/764276527244546048) 
+* [DDD Melbourne 2016 with reviews](https://twitter.com/AbhayaChauhan/status/764276527244546048)
+* [SiSeiX Mexico](https://medium.com/@basarat/siseix-mexico-72f6eee1f322#.c9rfeafaw)
 
 
 Variously [random](https://twitter.com/PicnicSoftware/status/538111725732507649) -- [talks](http://www.meetup.com/MelbNodeJS/events/222926818/) -- [even remotely](http://www.meetup.com/Adelaide-dotNET/events/231160074/).

@@ -15,10 +15,15 @@ Developer workflows and maintainable code architectures excite me.
 
 <a href="http://alm.tools/"><img src="/img/typescriptbuilder.jpg"/></a>
 
+## [TypeStyle](http://typestyle.io/)
+
+CSS in JS done with a focus on leveraging TypeScript to provide type safety. [Has awesome reviews](http://typestyle.io/#/reviews)
+
+<a href="http://typestyle.io/"><img src="http://typestyle.io/images/autocomplete.gif"/></a>
+
 ## Other Projects
 Too many, but here are a few I still feel proud about
 
 * [TypeScript Collections](https://github.com/basarat/typescript-collections) : A data structures library for TypeScript.
-* [NTypeScript](https://github.com/typestrong/ntypescript) : Making it easier to consume the latest and greatest stuff from the TypeScript team.
 * [grunt-ts](https://github.com/typestrong/grunt-ts) : It allowed me to be productive with TypeScript in any IDE back when the LanguageService wasn't well documented.
-* [CSX](https://github.com/basarat/csx) : CSS FlexBox done in JS variables.
+* [FormState](https://formstate.github.io/): Making managing forms super easy. [Checkout the demos](https://formstate.github.io/demos/).

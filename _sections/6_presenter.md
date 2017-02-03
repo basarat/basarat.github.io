@@ -21,7 +21,6 @@ I've presented many times. Here are a few that I could dig up quickly in no part
 
 Variously [random](https://twitter.com/PicnicSoftware/status/538111725732507649) -- [talks](http://www.meetup.com/MelbNodeJS/events/222926818/) -- [even remotely](http://www.meetup.com/Adelaide-dotNET/events/231160074/).
 
-Also [YouTube](http://youtube.com/basaratali) : Haven't published much, but still have 700+ subscribers and 125K+ views, which isn't bad for just random developer videos.
 
 [Also got interviewed about what motivates my OSS efforts.](http://developeronfire.com/episode-146-basarat-ali-syed-niche-and-fire)
 

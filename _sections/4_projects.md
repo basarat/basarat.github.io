@@ -15,11 +15,11 @@ Developer workflows and maintainable code architectures excite me.
 
 <a href="http://alm.tools/"><img src="/img/typescriptbuilder.jpg"/></a>
 
-## [TypeStyle](http://typestyle.io/)
+## [TypeStyle](https://typestyle.github.io/)
 
-CSS in JS done with a focus on leveraging TypeScript to provide type safety. [Has awesome reviews](http://typestyle.io/#/reviews)
+CSS in JS done with a focus on leveraging TypeScript to provide type safety. [Has awesome reviews](https://typestyle.github.io/#/reviews)
 
-<a href="http://typestyle.io/"><img src="http://typestyle.io/images/autocomplete.gif"/></a>
+<a href="https://typestyle.github.io/"><img src="http://typestyle.io/images/autocomplete.gif"/></a>
 
 ## Other Projects
 Too many, but here are a few I still feel proud about

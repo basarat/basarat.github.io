@@ -22,7 +22,11 @@ I've presented many times. Here are a few that I could dig up quickly in no part
 
 Variously [random](https://twitter.com/PicnicSoftware/status/538111725732507649) -- [talks](http://www.meetup.com/MelbNodeJS/events/222926818/) -- [even remotely](http://www.meetup.com/Adelaide-dotNET/events/231160074/).
 
+## Podcasts
+Here are few podcasts I've been a part of:
 
-[Also got interviewed about what motivates my OSS efforts.](http://developeronfire.com/episode-146-basarat-ali-syed-niche-and-fire)
+* [What motivates my OSS efforts.](http://developeronfire.com/episode-146-basarat-ali-syed-niche-and-fire)
+* [Thoughts on TypeScript with Egghead.io](https://egghead.simplecast.fm/1c98ec65)
 
+## Contact
 Would be happy to do a talk [if you want me to](https://twitter.com/basarat). Otherwise I'm mostly busy creating or helping others with OSS projects.

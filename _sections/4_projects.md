@@ -19,7 +19,7 @@ Developer workflows and maintainable code architectures excite me.
 
 CSS in JS done with a focus on leveraging TypeScript to provide type safety. [Has awesome reviews](https://typestyle.github.io/#/reviews)
 
-<a href="https://typestyle.github.io/"><img src="http://typestyle.io/images/autocomplete.gif"/></a>
+<a href="https://typestyle.github.io/"><img src="http://typestyle.github.io/images/autocomplete.gif"/></a>
 
 ## Other Projects
 Too many, but here are a few I still feel proud about

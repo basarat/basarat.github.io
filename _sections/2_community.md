@@ -4,11 +4,11 @@ title: Community
 ---
 I try to help out whenever I can
 
-<a href="http://stackoverflow.com/tags/typescript/topusers">
-<img src="http://stackoverflow.com/users/flair/390330.png" width="208" height="58" alt="profile for Basarat Ali at Stack Overflow, Q&A for professional and enthusiast programmers" title="profile for Basarat Ali at Stack Overflow, Q&A for professional and enthusiast programmers" />
+<a href="https://stackoverflow.com/tags/typescript/topusers">
+<img src="https://stackoverflow.com/users/flair/390330.png" width="208" height="58" alt="profile for Basarat Ali at Stack Overflow, Q&A for professional and enthusiast programmers" title="profile for Basarat Ali at Stack Overflow, Q&A for professional and enthusiast programmers" />
 </a>
 
-Top contributor for [TypeScript](http://stackoverflow.com/tags/typescript/topusers).
+Top contributor for [TypeScript](https://stackoverflow.com/tags/typescript/topusers).
 
 <a href="https://www.airpair.com/typescript/expert-basarat"><img height="60px" src="/img/airpair.png"/></a>
 

@@ -28,6 +28,7 @@ Here are few podcasts I've been a part of:
 * [What motivates my OSS efforts.](http://developeronfire.com/episode-146-basarat-ali-syed-niche-and-fire)
 * [Thoughts on TypeScript with Egghead.io](https://egghead.simplecast.fm/1c98ec65)
 * [TouchDownAu: About my journey into software development and what motivates me](https://itunes.apple.com/au/podcast/5-interview-with-basarat-ali-syed-typescript-expert/id1364772551?i=1000411331685&mt=2)
+* [Experty.io: About my thoughts as a JavaScript / TypeScript expert](https://www.youtube.com/watch?v=e9Jp6b9IPv8)
 
 ## Contact
 Would be happy to do a talk [if you want me to](https://twitter.com/basarat). Otherwise I'm mostly busy creating or helping others with OSS projects.

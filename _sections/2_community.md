@@ -10,10 +10,10 @@ I try to help out whenever I can
 
 Top contributor for [TypeScript](https://stackoverflow.com/tags/typescript/topusers).
 
-<a href="https://www.airpair.com/typescript/expert-basarat"><img height="60px" src="/img/airpair.png"/></a>
-
-[TypeScript Expert](https://www.airpair.com/typescript/expert-basarat) on AirPair
-
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5002417"><img height="60px" src="/img/mvp.png"/></a>
 
 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002417) for contributions to the JavaScript / TypeScript ecosystem.
+
+<a href="https://contact.experty.io/basarat"><img height="60px" src="/img/experty.png"/></a>
+
+[TypeScript / JavaScript Expert](https://contact.experty.io/basarat) on Experty

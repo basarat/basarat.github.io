@@ -17,4 +17,3 @@ Top contributor for [TypeScript](https://stackoverflow.com/tags/typescript/topus
 <a href="https://contact.experty.io/basarat"><img height="60px" src="/img/experty.png"/></a>
 
 [TypeScript / JavaScript Expert](https://contact.experty.io/basarat) on Experty
-

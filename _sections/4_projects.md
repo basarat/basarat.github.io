@@ -22,7 +22,7 @@ CSS in JS done with a focus on leveraging TypeScript to provide type safety. [Ha
 <a href="https://typestyle.github.io/"><img src="https://typestyle.github.io/images/autocomplete.gif"/></a>
 
 ## Other Projects
-Too many, but here are a few I still feel proud about
+[Too many to list here](https://github.com/basarat). Here are some more highlights:
 
 * [TypeScript Collections](https://github.com/basarat/typescript-collections) : A data structures library for TypeScript.
 * [FormState](https://formstate.github.io/): Making managing forms super easy. [Checkout the demos](https://formstate.github.io/demos/).

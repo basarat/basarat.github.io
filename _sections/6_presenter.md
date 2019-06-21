@@ -15,7 +15,7 @@ I've presented many times. Here are a few that I could dig up quickly in no part
 * [Best IDE for AngularJS](http://www.meetup.com/AngularJS-Melbourne/events/221359461/)
 * [Lessons from creating your own Editor](http://chrisburgess.com.au/what-do-you-know-wdyk-melbourne/)
 * [5 Reasons to TypeScript](https://www.webdirections.org/events/wdyk-melb-apr2014/)
-* [NDC Sydney: TypeScript - More than just a transpiler](http://ndcsydney.com/speaker/basarat-ali-syed/)
+* [NDC Sydney: TypeScript - More than just a transpiler](https://www.youtube.com/watch?v=wuPSYRi7Pt8)
 * [Melbourne FrontEnders: TypeScript and ReactJS](http://www.meetup.com/front-end-developers-javascript/events/231703417/)
 * [Tech Inno Vent](https://www.meetup.com/Tech-Inno-Vent/events/232717286/) with [reviews](https://twitter.com/basarat/status/763326794359418880) and [crowd](https://twitter.com/workatcrownbet/status/763563637772464128?refsrc=email&s=11)
 * [DDD Melbourne: ES6 and TypeScript](https://twitter.com/AbhayaChauhan/status/764276527244546048)

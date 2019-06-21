@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Screencasts
+title: Video Content
 ---
 
-I have a few lessons up on [Egghead.io](https://egghead.io/instructors/basarat-ali-syed/).
+I'm on [YouTube, as that TypeScript Guy](https://youtube.com/basaratali).
+
+<a href="https://youtube.com/basaratali"><img width="200px" src="/img/youtube.png"/></a>
+
+I am well knows as a TypeScript instructor on Egghead.io, [with plenty of lessons and courses](https://egghead.io/instructors/basarat-ali-syed/).
 
 <a href="https://egghead.io/instructors/basarat-ali-syed/"><img width="100px" src="/img/egghead.png"/></a>
 
-Also [YouTube](http://youtube.com/basaratali) : Haven't published much lately, but still have 700+ subscribers and 125K+ views, which isn't bad for just random developer videos.
+

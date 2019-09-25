@@ -7,7 +7,7 @@ I'm on [YouTube, as that TypeScript Guy](https://youtube.com/basaratali).
 
 <a href="https://youtube.com/basaratali"><img width="200px" src="/img/youtube.png"/></a>
 
-I am well knows as a TypeScript instructor on Egghead.io, [with plenty of lessons and courses](https://egghead.io/instructors/basarat-ali-syed/).
+I am also well known as a TypeScript instructor on Egghead.io, [with plenty of lessons and courses](https://egghead.io/instructors/basarat-ali-syed/).
 
 <a href="https://egghead.io/instructors/basarat-ali-syed/"><img width="100px" src="/img/egghead.png"/></a>
 

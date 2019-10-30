@@ -5,7 +5,7 @@ title: About
 
 That guy you probably know because you heard something about TypeScript.
 
-> Microsoft MVP for TypeScript, Cypress Ambassador, open sorcerer, book author, you-tuber, eggheader, screen-caster, developer empathiser.
+> Microsoft MVP for TypeScript, Cypress Ambassador, open sorcerer, book author, youtuber, eggheader, developer empathiser.
 
 [Twitter/basarat](https://twitter.com/basarat) is the quickest way to get in touch.
 

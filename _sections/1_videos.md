@@ -3,7 +3,7 @@ layout: post
 title: Video Content
 ---
 
-I'm on [YouTube, as that TypeScript Guy](https://youtube.com/basaratali).
+I create [Software Development content on YouTube](https://youtube.com/basaratali).
 
 <a href="https://youtube.com/basaratali"><img width="200px" src="/img/youtube.png"/></a>
 

@@ -11,6 +11,6 @@ That guy you probably know because you heard something about TypeScript.
 
 <a href="https://twitter.com/basarat"><img height="60px" src="/img/twitter.png"/></a>
 
-You can find more about my professional Frontend leadership experience up on [LinkedIn/in/basarat](https://linkedin.com/in/basarat)
+You can find more about my professional leadership experience up on [LinkedIn/in/basarat](https://linkedin.com/in/basarat)
 
 <a href="https://linkedin.com/in/basarat"><img height="60px" src="/img/linkedin.png"/></a>

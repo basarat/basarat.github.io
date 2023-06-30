@@ -11,9 +11,9 @@ Developer workflows and maintainable code architectures excite me.
 <a href="https://atom.io/packages/atom-typescript"><img src="https://raw.githubusercontent.com/TypeStrong/atom-typescript-examples/master/screens/semanticView.png"/></a>
 
 ## [ALM Tools](http://alm-tools.github.io/)
-[alm.tools](http://alm.tools/) : A toolset I designed specifically to meet my personal high quality language tool requirements.
+[alm tools](http://alm-tools.github.io/) : A toolset I designed specifically to meet my personal high quality language tool requirements.
 
-<a href="http://alm.tools/"><img src="/img/typescriptbuilder.jpg"/></a>
+<a href="http://alm-tools.github.io/"><img src="/img/typescriptbuilder.jpg"/></a>
 
 ## [TypeStyle](https://typestyle.github.io/)
 

@@ -11,6 +11,10 @@ Founder [BooleanArt](https://booleanart.com), a course platform designed to get 
 
 <a href="https://booleanart.com"><img height="100px" src="/img/booleanart.png"/></a>
 
+I also create [Software Development content on YouTube](https://youtube.com/@basarat).
+
+<a href="https://youtube.com/@basarat"><img width="200px" src="/img/youtube.png"/></a>
+
 [Twitter/basarat](https://twitter.com/basarat) is the quickest way to get in touch.
 
 <a href="https://twitter.com/basarat"><img height="60px" src="/img/twitter.png"/></a>
